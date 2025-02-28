@@ -1,0 +1,23 @@
+body {
+    background-color: #fff5e1;
+}
+
+#main_h1 {
+    color: gold;
+}
+
+#main_h3 {
+    color: crimson;
+}
+
+#second_h3 {
+    color: aqua;
+}
+
+#main_h4 {
+    color: blue;
+}
+
+#center1 {
+    text-align: center;
+}
